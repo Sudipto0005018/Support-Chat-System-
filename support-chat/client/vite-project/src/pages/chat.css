@@ -1,0 +1,71 @@
+.chat-root {
+    display: flex;
+    flex-direction: column;
+    height: 100%
+}
+
+.chat-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
+    border-bottom: 1px solid #eee;
+    background: linear-gradient(90deg, var(--accent), #8a79b6);
+    color: #fff
+}
+
+.chat-body {
+    padding: 12px;
+    height: 360px;
+    overflow: auto;
+    background: #f6f7fb
+}
+
+.chat-actions {
+    padding: 12px;
+    border-top: 1px solid #eee
+}
+
+.msg {
+    padding: 8px 10px;
+    margin-bottom: 8px;
+    max-width: 80%;
+    border-radius: 8px
+}
+
+.msg-bot {
+    background: #fff;
+    border: 1px solid #eee;
+    align-self: flex-start
+}
+
+.msg-user {
+    background: var(--accent);
+    color: #fff;
+    align-self: flex-end;
+    margin-left: auto
+}
+
+.msg-admin {
+    background: #fff7cc;
+    border: 1px solid #f0e2a9
+}
+
+.opt-btn {
+    margin-right: 8px;
+    margin-bottom: 8px
+}
+
+.ticket-form input,
+.ticket-form textarea {
+    width: 100%;
+    margin-bottom: 8px
+}
+
+.close-btn {
+    background: transparent;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer
+}
