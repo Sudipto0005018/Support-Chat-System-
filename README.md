@@ -3,7 +3,8 @@
 
 Frontend: React part not fully done, but attempted it, you can go through the code.
 
-Backend: start server: npm start (or if want to start with nodemon: npm run dev)
+Backend: 
+start server: npm start (or if want to start with nodemon: npm run dev)
 
 GET http://localhost:5000/
 
