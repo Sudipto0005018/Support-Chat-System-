@@ -1,9 +1,10 @@
 # Support-Chat-System-
 
 
+Frontend: React part not fully done, but attempted it, you can go through the code.
 
 Backend: start server: npm start (or if want to start with nodemon: npm run dev)
-Frontend: React part not fully done, but attempted it, 
+
 GET http://localhost:5000/
 
 POST: Register:   http://localhost:5000/api/auth/register
