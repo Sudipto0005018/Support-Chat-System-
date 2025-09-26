@@ -2,15 +2,15 @@
 
 
 Frontend:
-cd support-chat
-cd client
-cd vite-project
+cd support-chat,
+cd client,
+cd vite-project,
 React part not fully done, but attempted it, you can go through the code.
 
 
 Backend:
-cd support-chat
-cd server
+cd support-chat,
+cd server,
 Backend: 
 
 start server: npm start (or if want to start with nodemon: npm run dev)
