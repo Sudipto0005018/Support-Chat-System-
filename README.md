@@ -1,9 +1,16 @@
 # Support-Chat-System-
 
 
-Frontend: React part not fully done, but attempted it, you can go through the code.
+Frontend:
+cd support-chat
+cd client
+cd vite-project
+React part not fully done, but attempted it, you can go through the code.
 
-Backend: start server: npm start (or if want to start with nodemon: npm run dev)
+Backend:
+cd support-chat
+cd server
+start server: npm start (or if want to start with nodemon: npm run dev)
 
 GET http://localhost:5000/
 
